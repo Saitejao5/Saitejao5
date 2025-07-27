@@ -20,8 +20,8 @@
 ---
 
 ### 📌 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kumar-thammappa-gari-b301902a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](Saitejao5 (SAI KUMAR THAMMAPPA GARI) https://share.google/NRwrOhvsVxaVCrnlP)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR-USERNAME)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/YOUR-USERNAME)
 
