@@ -1,4 +1,4 @@
-<img align="right" height="150" src="YOUR_IMAGE_URL_HERE"/>
+<img align="right" height="150" src="https://drive.google.com/file/d/1Lx7U8RH-dCefK_w62Zfky1vV8wBSr6aM/view?usp=drivesdk"/>
 
 # Hi there, 👋 I'm Sai Kumar Thammapa Gari
 
@@ -6,22 +6,22 @@
 
 ---
 
-🎓 Final Year Student @ [Your College]  
+🎓 Final Year Student @ PBR Vishvodaya Institute of technology and science 
 💼 Aspiring Full Stack Developer  
 🌱 Currently learning MERN, AI Tools & Prompt Engineering  
 🔭 Building: PromptX, Internship Aggregator, etc.  
-📫 Reach me at: [your email]  
+📫 Reach me at: tsai3116@gmail.com
 
 ---
 
 ### 🚀 Skills
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB` `Python` `C++` `DSA`
+`Prompt Engineer` `Vibe Coder` `HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB` `Python` `C++` `DSA`
 
 ---
 
 ### 📌 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kumar-thammappa-gari-b301902a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](Saitejao5 (SAI KUMAR THAMMAPPA GARI) https://share.google/NRwrOhvsVxaVCrnlP)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](Saitejao5 (SAI KUMAR THAMMAPPA GARI)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR-USERNAME)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/YOUR-USERNAME)
 
