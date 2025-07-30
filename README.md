@@ -1,4 +1,4 @@
-<img align="right" height="150" src="profile.png"/>
+
 
 # Hi there, 👋 I'm Sai Kumar Thammapa Gari
 
