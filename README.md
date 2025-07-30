@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://drive.google.com/file/d/1Lx7U8RH-dCefK_w62Zfky1vV8wBSr6aM/view?usp=drivesdk"/>
+<img align="right" height="150" src="profile.png"/>
 
 # Hi there, 👋 I'm Sai Kumar Thammapa Gari
 
