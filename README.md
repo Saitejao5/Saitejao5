@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Skills
-`Prompt Engineer` `Vibe Coder` GenAI/full stack developer` `React.js` `Node.js` `MongoDB` `Python` `C++` `DSA`
+`Prompt Engineer` `Vibe Coder `GenAI/full stack developer` `React.js` `Node.js` `MongoDB` `Python` `C++` `DSA`
 
 ---
 
@@ -42,9 +42,9 @@
 ### 📂 Projects
 | Project | Description |
 |--------|-------------|
-| [PromptX](https://github.com/YourRepo) | a multi layer prompt engine |
-| [Job Aggregator](https://github.com/YourRepo) | Scrapes & Shows  real-world Jobs, Internships and more |
-| [Portfolio Website](https://github.com/YourRepo) | Your personal portfolio in React |
+| [PromptX](https://github.com/Saitejao5/promptx-glow-forge) | a multi layer prompt engine |
+| [innotech adhitha](https://preview--career-compass-hub-46.lovable.app/) | a edutech portal where students learn practice prepare their career |
+| [Health AI](https://github.com/Saitejao5/wellness-scan-wise) | A ingredient based system that guves health awareness |
 
 ---
 
