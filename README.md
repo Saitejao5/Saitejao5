@@ -2,20 +2,19 @@
 
 # Hi there, 👋 I'm Sai Kumar Thammapa Gari
 
-**Web Developer** • **DSA Enthusiast** • **Open Source Contributor**
+**GenAI engineer** • **Product developer** • **Open Source Contributor and tech entrepreneur**
 
 ---
 
 🎓 Final Year Student @ PBR Vishvodaya Institute of technology and science 
-💼 Aspiring Full Stack Developer  
-🌱 Currently learning MERN, AI Tools & Prompt Engineering  
-🔭 Building: PromptX, Internship Aggregator, etc.  
+💼 Aspiring GenAI/Full Stack Developer
+🔭 Building: PromptX, Health AI, innotech adhitha, job Aggregator, etc.  
 📫 Reach me at: tsai3116@gmail.com
 
 ---
 
 ### 🚀 Skills
-`Prompt Engineer` `Vibe Coder` `HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB` `Python` `C++` `DSA`
+`Prompt Engineer` `Vibe Coder` GenAI/full stack developer` `React.js` `Node.js` `MongoDB` `Python` `C++` `DSA`
 
 ---
 
@@ -43,8 +42,8 @@
 ### 📂 Projects
 | Project | Description |
 |--------|-------------|
-| [PromptX](https://github.com/YourRepo) | AI Prompt Engineering Toolkit |
-| [Job Aggregator](https://github.com/YourRepo) | Scrapes & Shows Jobs, Internships |
+| [PromptX](https://github.com/YourRepo) | a multi layer prompt engine |
+| [Job Aggregator](https://github.com/YourRepo) | Scrapes & Shows  real-world Jobs, Internships and more |
 | [Portfolio Website](https://github.com/YourRepo) | Your personal portfolio in React |
 
 ---
