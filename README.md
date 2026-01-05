@@ -42,9 +42,9 @@
 ### 📂 Projects
 | Project | Description |
 |--------|-------------|
-| [PromptX](https://github.com/Saitejao5/promptx-glow-forge) | a multi layer prompt engine |
+| [PromptX](https://github.com/Saitejao5/promptx-glow-forge) | a multi layer prompt engine that enhances simple user schemas into production ready prompts that drives AI 10x accurately|
 | [innotech adhitha](https://preview--career-compass-hub-46.lovable.app/) | a edutech portal where students learn practice prepare their career |
-| [Health AI](https://github.com/Saitejao5/wellness-scan-wise) | A ingredient based system that guves health awareness |
+| [Health AI](https://github.com/Saitejao5/wellness-scan-wise) | A ingredient based system that gives health awareness |
 
 ---
 
