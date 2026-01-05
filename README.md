@@ -26,15 +26,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saitejao5&show_icons=true&theme=radical"/>
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saitejao5&layout=compact&theme=radical"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saitejao5&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saitejao5&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saitejao5&theme=radical&utcOffset=5.5)
 ---
 
 ### 🏆 Badges / Achievements
